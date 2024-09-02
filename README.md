@@ -5,7 +5,7 @@ I am Brian Tham, an [Applied AI](https://www.singaporetech.edu.sg/undergraduate-
 ## Research Interests:
 - Quantum Computing and AI Integration: Exploring synergies between quantum algorithms and machine learning
 - Advanced Recommender Systems: Enhancing personalization and accuracy in recommendation engines
-- Computer Vision for Autonomous Vehicles: Developing robust object detection and navigation systems
+- Computer Vision: Developing robust object detection
 - GPU Acceleration in AI: Optimizing AI performance through advanced GPU technologies
 - AI Model Protection and Security: Analyzing and mitigating vulnerabilities in deep learning models
 
