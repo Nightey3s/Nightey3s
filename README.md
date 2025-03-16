@@ -21,7 +21,7 @@ Deep learning-based food detection system using YOLOv8 to identify 55 different 
 
 *Team: Brian Tham, Hong Ziyang, Javier Si, Timothy Delaya*
 
-### Speech Emotion Recognition
+### [Speech Emotion Recognition](https://github.com/Nightey3s/Speech-Emotion-Recognition-using-Wav2Vec2)
 System using Wav2Vec2 to classify speech into four emotional categories (Neutral, Happy, Sad, Angry), achieving 69.02% accuracy through transformer architecture and robust data augmentation techniques.
 
 *Team: Brian Tham, Hong Ziyang*
