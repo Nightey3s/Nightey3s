@@ -9,14 +9,24 @@ I am Brian Tham, an [Applied AI](https://www.singaporetech.edu.sg/undergraduate-
 - GPU Acceleration in AI: Optimizing AI performance through advanced GPU technologies
 - AI Model Protection and Security: Analyzing and mitigating vulnerabilities in deep learning models
 
-## Hands-on Experience:
-- Overseas Immersion Programme (OIP) in Danang, Vietnam:
-  - Developed AI models for DeepGlobe Land Cover Classification, achieving high accuracy in segmentation tasks
-  - Won Best Accuracy of Model award in FER-2013 dataset hackathon, demonstrating proficiency in emotion recognition
-  - Gained insights into Vietnam's tech ecosystem through visits to leading companies
-- Developed predictive models using machine learning algorithms for various business applications
-- Conducted comprehensive analysis of ransomware attacks across different industries, providing valuable cybersecurity insights
-- Evaluated and benchmarked AI chatbots, assessing their performance in natural language understanding and generation
+## Projects
+
+### Profanity Detection
+Multimodal system for detecting and rephrasing profanity in both speech and text, featuring real-time analysis, automatic content refinement, and toxicity classification using advanced NLP models.
+*Team: Brian Tham, Hong Ziyang, Nabil Zafran, Adrian Wong, Lin Xiang Hong*
+
+### FoodVision
+Deep learning-based food detection system using YOLOv8 to identify 55 different food classes, with calorie estimation and a web interface featuring image upload and camera capture capabilities.
+*Team: Brian Tham, Hong Ziyang, Javier Si, Timothy Delaya*
+
+### Speech Emotion Recognition
+System using Wav2Vec2 to classify speech into four emotional categories (Neutral, Happy, Sad, Angry), achieving 69.02% accuracy through transformer architecture and robust data augmentation techniques.
+
+## Experience
+- **Vietnam Immersion Programme:** Developed AI models for land cover classification and won Best Accuracy award in emotion recognition hackathon
+- Created predictive machine learning models for business applications
+- Analysed ransomware attacks across industries for cybersecurity insights
+- Evaluated AI chatbot performance in natural language tasks
 
 ## Technical Skills:
 - Programming: Python, C#, R
