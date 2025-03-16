@@ -13,14 +13,18 @@ I am Brian Tham, an [Applied AI](https://www.singaporetech.edu.sg/undergraduate-
 
 ### Profanity Detection
 Multimodal system for detecting and rephrasing profanity in both speech and text, featuring real-time analysis, automatic content refinement, and toxicity classification using advanced NLP models.
+
 *Team: Brian Tham, Hong Ziyang, Nabil Zafran, Adrian Wong, Lin Xiang Hong*
 
 ### FoodVision
 Deep learning-based food detection system using YOLOv8 to identify 55 different food classes, with calorie estimation and a web interface featuring image upload and camera capture capabilities.
+
 *Team: Brian Tham, Hong Ziyang, Javier Si, Timothy Delaya*
 
 ### Speech Emotion Recognition
 System using Wav2Vec2 to classify speech into four emotional categories (Neutral, Happy, Sad, Angry), achieving 69.02% accuracy through transformer architecture and robust data augmentation techniques.
+
+*Team: Brian Tham, Hong Ziyang*
 
 ## Experience
 - **Vietnam Immersion Programme:** Developed AI models for land cover classification and won Best Accuracy award in emotion recognition hackathon
