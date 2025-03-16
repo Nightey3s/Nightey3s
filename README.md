@@ -11,12 +11,12 @@ I am Brian Tham, an [Applied AI](https://www.singaporetech.edu.sg/undergraduate-
 
 ## Projects
 
-### Profanity Detection
+### [Profanity Detection](https://nightey3s-profanity-detection.hf.space)
 Multimodal system for detecting and rephrasing profanity in both speech and text, featuring real-time analysis, automatic content refinement, and toxicity classification using advanced NLP models.
 
 *Team: Brian Tham, Hong Ziyang, Nabil Zafran, Adrian Wong, Lin Xiang Hong*
 
-### FoodVision
+### [FoodVision](https://nightey3s-foodvision.hf.space)
 Deep learning-based food detection system using YOLOv8 to identify 55 different food classes, with calorie estimation and a web interface featuring image upload and camera capture capabilities.
 
 *Team: Brian Tham, Hong Ziyang, Javier Si, Timothy Delaya*
