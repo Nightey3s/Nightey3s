@@ -8,6 +8,7 @@ I am Brian Tham, incoming [A*STAR](https://www.a-star.edu.sg/) Research Intern a
 - Computer Vision
 - GPU Acceleration in AI
 - AI Model Protection
+- Large Language Models
 
 ## Projects
 
