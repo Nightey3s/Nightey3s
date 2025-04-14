@@ -1,6 +1,6 @@
 # About Me
 
-I am Brian Tham, incoming [A*STAR](https://www.a-star.edu.sg/) Research Intern and an [Applied AI](https://www.singaporetech.edu.sg/undergraduate-programmes/applied-artificial-intelligence) undergraduate at Singapore Institute of Technology, passionate about pushing the boundaries of AI research and its real-world applications. With a strong foundation in computer science and a keen interest in emerging technologies, I'm dedicated to developing innovative AI solutions to solve complex challenges.
+I am Brian Tham, an [A*STAR](https://www.a-star.edu.sg/) Research Intern and [Applied AI](https://www.singaporetech.edu.sg/undergraduate-programmes/applied-artificial-intelligence) undergraduate at Singapore Institute of Technology, passionate about pushing the boundaries of AI research and its real-world applications. With a strong foundation in computer science and a keen interest in emerging technologies, I'm dedicated to developing innovative AI solutions to solve complex challenges.
 
 ## Research Interests:
 - Quantum Computing
