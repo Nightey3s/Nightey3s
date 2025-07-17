@@ -28,7 +28,8 @@ System using Wav2Vec2 to classify speech into four emotional categories (Neutral
 *Team: Brian Tham, Hong Ziyang*
 
 ## Experience
-- **Vietnam Immersion Programme:** Developed AI models for land cover classification and won Best Accuracy award in emotion recognition hackathon
+- **Overseas Immersion Programme(2025) - Tallinn, Estonia:** Tallin University of Technology, Cybersecurity Summer School
+- **Overseas Immersion Programme(2024)- Da Nang, Vietnam:** FPT University, Developed AI models for land cover classification and won Best Accuracy award in emotion recognition hackathon
 - Created predictive machine learning models for business applications
 - Analysed ransomware attacks across industries for cybersecurity insights
 - Evaluated AI chatbot performance in natural language tasks
